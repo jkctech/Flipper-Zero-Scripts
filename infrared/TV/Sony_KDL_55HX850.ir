@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: SIRC
+address: 01 00 00 00
+command: 15 00 00 00
