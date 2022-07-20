@@ -22,6 +22,13 @@ This is my personal collection of scripts, dumps and tools for the Flipper Zero.
 |`Passwords/Saved_Passwords_Win.txt`|Extracts passwords from Windows.|
 |`Passwords/WiFi_Passwords_Win.txt`|Extracts WiFi passwords from Windows.|
 
+## IR Dumps
+
+|File|Brand|Type|Complete|
+|-|-|-|-|
+|`Audio/Yamaha_RX_a860.ir`|Yamaha|Audio Amplifier|No|
+|`TV/Sony_KDL_55HX850.ir`|Sony|TV|No|
+
 ## Sub-Ghz
 
 |Device|Description|
