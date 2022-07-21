@@ -31,6 +31,7 @@ This is my personal collection of scripts, dumps and tools for the Flipper Zero.
 
 ## Sub-Ghz
 
-|Device|Description|
-|-|-|
-|`Flamingo/SF_501`|Dumps for Flamingo SF-501 Remote/Socket pairs.|
+|Device|Category|Description|
+|-|-|-|
+|`Flamingo/SF_501`|Smart|Dumps for Flamingo SF-501 Remote/Socket pairs.|
+|`Byron/DB421E`|Doorbell|Dumps for Byron DB421E doorbell set.|
