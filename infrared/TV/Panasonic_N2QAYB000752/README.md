@@ -15,4 +15,6 @@ Infra red signal files for the Flipper Zero.
  - PANASONIC TX-P50XT50E
  - PANASONIC TX-PF46ST30
 
+`Contains 2 files since the Full file takes +- 20 seconds to load.`
+
 <img src="remote.jpg">
