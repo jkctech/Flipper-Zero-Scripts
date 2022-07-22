@@ -24,10 +24,25 @@ This is my personal collection of scripts, dumps and tools for the Flipper Zero.
 
 ## IR Dumps
 
-|File|Brand|Type|Complete|
+#### Audio
+
+|File|Brand|Description|Complete|
 |-|-|-|-|
-|`Audio/Yamaha_RX_a860.ir`|Yamaha|Audio Amplifier|No|
-|`TV/Sony_KDL_55HX850.ir`|Sony|TV|No|
+|`Audio/Winnes_KC_809`|Winnes|CD Player|**Yes**|
+|`Audio/Yamaha_RX_a860`|Yamaha|Audio Amplifier|No|
+
+#### Smart
+
+|File|Brand|Description|Complete|
+|-|-|-|-|
+|`Smart/LEDStrip`|Unknown|Generic LED Strip Remote|**Yes**|
+
+#### TV
+
+|File|Brand|Description|Complete|
+|-|-|-|-|
+|`TV/Panasonic_N2QAYB000752`|Panasonic|TV|**Yes**|
+|`TV/Sony_KDL_55HX850`|Sony|TV|**Yes**|
 
 ## Sub-Ghz
 
