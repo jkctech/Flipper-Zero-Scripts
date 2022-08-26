@@ -4,6 +4,11 @@ This is my personal collection of scripts, dumps and tools for the Flipper Zero.
 
 <img src=".assets/passport.png">
 
+## Hardware
+
+#### [WiFi Board (ESP8266 NodeMCU + NRF24L01)](hardware/wifi_board)
+<img src="hardware/wifi_board/pluggedin.jpg" style="width:40%">
+
 ## Bad-USB
 
 #### Categories
