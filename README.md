@@ -23,7 +23,8 @@ This is my personal collection of scripts, dumps and tools for the Flipper Zero.
 |File|Description|
 |-|-|
 |`Fun/Parrot_X.txt`|Party parrot for OSX / Windows.|
-|`Fun/RickRoll_X.txt`|Rick Roll for OSX / Windows.|
+|`Fun/RickRoll_Term_X.txt`|Rick Roll for OSX / Windows terminal.|
+|`Fun/RickRoll_YT_X.txt`|Rick Roll for OSX / Windows using YouTube.|
 |`Passwords/Saved_Passwords_Win.txt`|Extracts passwords from Windows.|
 |`Passwords/WiFi_Passwords_Win.txt`|Extracts WiFi passwords from Windows.|
 
